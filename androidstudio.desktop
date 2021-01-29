@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=AndroidStudio
+Comment=MakeAndroidAPK
+Exec=/usr/local/android-studio/bin/studio.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/neko/.local/share/ice/AndroidStudio.png
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=AndroidStudio
+StartupNotify=true

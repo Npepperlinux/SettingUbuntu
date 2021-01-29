@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Colaboratory
+Comment=Colaboratory (Ice SSB)
+Exec=google-chrome --app=https://colab.research.google.com/ --class=ICE-SSB-colaboratory --user-data-dir=/home/neko/.local/share/ice/profiles/colaboratory
+X-ICE-SSB-Profile=colaboratory
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/neko/.local/share/ice/colaboratory.png
+Categories=GTK;Development;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=ICE-SSB-colaboratory
+StartupNotify=true
