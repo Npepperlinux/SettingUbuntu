@@ -10,3 +10,5 @@ Ubuntuのインストール後、自分(Npepperlinux)の環境を簡単に構築
 `./second.sh`でfirefoxからVivaldi,Chrome,VScode,iceのダウンロードリンクが表示されます。
 # 注意
 このシステムは制作途中です。
+# .desktopのファイルについて
+現在、ホームディレクトリが`/home/neko`以外の環境では動作しません。
