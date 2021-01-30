@@ -3,7 +3,6 @@ Version=1.0
 Name=AviUtl
 Comment=AviUtl(Wine)
 Exec=wine AviUtl_file/aviutl110/aviutl.exe
-X-ICE-SSB-Profile=aviutl
 Terminal=false
 X-MultipleArgs=false
 Type=Application
