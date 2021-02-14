@@ -17,6 +17,9 @@ sudo apt install make
 sudo apt install make-guile
 sudo apt install vivaldi-stable
 sudo apt install inkscape
+sudo apt autoremove libreoffice
+sudo snap install discord
+sudo snap install libreoffice
 
 	# Install "wine" from here.
 sudo dpkg --add-architecture i386
@@ -33,7 +36,7 @@ sudo apt install --install-recommends winehq-stable
 sudo apt install winetricks
 
 echo "Shell will be FINISH soon!"
-read -p "Reboot this computer (y/n) :" DATA 
+read -p "Reboot this computer (y/n) :" 
 	[yY]) reboot
 	[nN]) echo "You have to reboot this computer."
 	[sl]) sl
