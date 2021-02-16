@@ -20,6 +20,7 @@ sudo apt install inkscape
 sudo apt autoremove libreoffice
 sudo snap install discord
 sudo snap install libreoffice
+sudo snap install vivaldi
 
 	# Install "wine" from here.
 sudo dpkg --add-architecture i386
