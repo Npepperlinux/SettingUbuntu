@@ -15,7 +15,6 @@ echo &sudo apt install vlc
 echo &sudo apt install htop
 echo &sudo apt install make
 echo &sudo apt install make-guile
-echo &sudo apt install vivaldi-stable
 echo &sudo apt install inkscape
 echo &sudo apt install android-tools-adb
 echo &sudo apt install android-tools-fastboot
