@@ -9,7 +9,7 @@ echo &sudo apt install neofetch
 echo &sudo apt install screenfetch
 echo &sudo apt install sl
 echo &sudo apt install git
-echo &sudo apt install g++
+echo &sudo apt install gcc
 echo &sudo apt install gimp
 echo &sudo apt install vlc
 echo &sudo apt install htop
